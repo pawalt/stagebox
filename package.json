@@ -1,0 +1,17 @@
+{
+  "name": "stagebox",
+  "version": "1.0.0",
+  "description": "Demo of using Stagehand with Modal Sandboxes",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@browserbasehq/stagehand": "^1.0.3",
+    "dotenv": "^16.4.5",
+    "sharp": "^0.33.5",
+    "zod": "^3.23.8"
+  }
+}
